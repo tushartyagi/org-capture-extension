@@ -151,7 +151,7 @@ This means that you need to have appropriate capture templates for "L" and for "
 
 _Hint:_ You can put code in capture handlers via %() blocks. I use this mechanism to automatically close the newly crated frame in the L template. If anyone cares to know, I'll add the details.
 
-#### Example: closins the frame after a capture
+#### Example: closing the frame after a capture
 
 If you wish to automatically close the emacs frame after a capture, add the following template:
 
